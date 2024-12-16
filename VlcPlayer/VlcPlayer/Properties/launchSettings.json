@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VlcPlayer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "VlcPlayer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
